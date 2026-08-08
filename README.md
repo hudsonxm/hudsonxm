@@ -9,7 +9,7 @@ I'm a Computer Science student at Northeastern University interested in building
 
 ## Projects
 
-### WIP
+### Projects coming soon
 
 ## Connect
 
