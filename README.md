@@ -1,16 +1,7 @@
-# Hi, I'm Hudson 👋
+# Hudson Mahon
 
-I'm a Computer Science student at Northeastern University interested in building software and learning how it works in practice.
+Computer Science student at Northeastern University and QA Intern at Eastbound Games.
 
-- 🎓 CS @ Northeastern University
-- 🧪 QA Intern at Eastbound Games
-- 💻 Working with Python, Java, C#, Git, and Unity
-- 🔨 Currently building personal projects and strengthening my software development skills
-
-## Projects
-
-### Projects coming soon
-
-## Connect
+Python • Java • C# • Git • Unity
 
 [LinkedIn](https://www.linkedin.com/in/hudsonmahon)
